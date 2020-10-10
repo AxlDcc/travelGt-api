@@ -1,2 +1,2 @@
 # travelGt-api
-Backend-side app de registros turisticos usando MVC API WEB 2.0 
+Backend-side app de registros turisticos usando MVC && WEB API 2.0
